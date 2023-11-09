@@ -12,7 +12,7 @@ fn Main() -> i32 {
   var y: i32 = 3; // Integer variable  
   Print("{0}", y);
 
-   // Error in following line. Tested FBasit...
+   // Error in following line. Tested Kashif...
    var z: auto = 3;
   // Print(z); //If we try and print a number directly, it won't work. Instead, we can use a placeholder
   return 0; //Return value 

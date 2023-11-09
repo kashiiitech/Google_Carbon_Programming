@@ -4,6 +4,6 @@ package sample api;
 
 fn Main() -> i32 {  // Main() should return an integer.
     Print("\n");
-    Print("Hello Fazle Basit");
+    Print("Hello Kashiiitech");
     return 100;
 }

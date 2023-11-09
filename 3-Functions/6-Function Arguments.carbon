@@ -20,7 +20,7 @@ fn Main() -> i32 {  // Main() should return an integer.
     Print("-------- 2 --------");
     Print("The Multiplication is {0}", mul(5, 5));
     Print("-------- 3 --------");
-    Print(print_my_name("Fazle", "Basit"));
+    Print(print_my_name("Kashif", "Ali"));
     Print("----- Good Bye -----");
     return 1;
 }

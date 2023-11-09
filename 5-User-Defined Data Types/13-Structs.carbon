@@ -2,11 +2,11 @@
 package sample api;
  fn Main() -> i32 {
     Print("-------- 1 --------");
-    var person: auto = {.name = "Fazle", 
+    var person: auto = {.name = "Kashif", 
                         .loc = "Texas"};
-    Print(person.name);    // Prints "Fazle"
-    person.name = "Basit"; // Change name value
-    Print(person.name);    // Prints "Basit"
+    Print(person.name);    // Prints "Kashif"
+    person.name = "Ali"; // Change name value
+    Print(person.name);    // Prints "Ali"
     Print("-------- 2 --------");
     // Define types
     var p: {.x: i32, .y: i32}={.x = 13, .y = 2};
