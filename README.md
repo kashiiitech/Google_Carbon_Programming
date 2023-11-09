@@ -31,4 +31,5 @@ fn Main() -> i32 {
 ```
 
 ### Comparison between Carbon & Rust
-[]
+![Comparison](https://github.com/kashiiitech/Google_Carbon_Programming/blob/main/1-Introduction%20%26%20Basics/carbon-laguage-comparison.png)
+
